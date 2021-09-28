@@ -1,0 +1,120 @@
+@media ( max-width : 1400px){
+  .mid-content {
+    width: 97%;
+    /*! max-width: 100%; */     
+    padding-left: 17px;
+    padding-right: 33px; 
+    box-sizing: border-box;      
+}
+}
+@media ( max-width : 1132px){
+  .service1 {
+    width: 42%;
+    
+}
+.pik {
+    width: 100%;
+    margin-left: 124px;
+}
+.about-style {
+    width: 100%;
+}
+    
+}
+@media ( max-width : 850px){
+  .about-cont p {
+    font-size: 15px;
+    
+}
+.about-cont h1 {
+    font-size: 27px;
+    
+}
+.contact-tow {
+    width: 100%;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 18px;
+}
+}
+@media ( max-width : 812px){
+  .header-menu ul li a {
+    bottom: 18px;
+    margin-left: 5px;
+    font-size: 15px;
+    
+}
+.service-cont p {
+   
+    margin-top: 10px;
+    font-size: 14px;
+}
+.service-cont h1 {
+    
+    font-size: 27px;
+}
+
+
+}
+@media ( max-width : 676px){
+  
+.banner-section {
+    
+    padding: 126px 0px;
+   
+}
+.about-cont p {
+    
+    width: 100%;
+}
+
+}
+@media ( max-width : 610px){
+  .cont h1 {
+    
+    font-size: 25px;
+}
+
+  .cont p {
+    
+    font-size: 15px;
+    margin-top: 12px;
+}
+  .butt {
+    
+    margin-top: 35px;
+}
+  
+.butt a {
+    
+    padding: 8px 16px;
+   
+}
+.service1 {
+    width: 100%;
+    
+}
+
+}
+@media ( max-width : 488px){
+  
+.cont h1 {
+    font-size: 18px;
+}
+.cont p {
+    font-size: 11px;
+    margin-top: 8px;
+}
+.butt {
+    margin-top: 28px;
+}
+.butt a {
+    padding: 6px 11px;
+}
+.sss-menu ul li a {
+   
+    font-size: 19px;
+}
+ 
+
+}
